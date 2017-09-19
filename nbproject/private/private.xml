@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/andeanmusic/controllers/band.php</file>
-            <file>file:/C:/xampp/htdocs/andeanmusic/models/band.php</file>
+            <file>file:/C:/xampp/htdocs/andeanmusic/css/andeanmusic.css</file>
+            <file>file:/C:/xampp/htdocs/andeanmusic/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/andeanmusic/test/slettes.php</file>
             <file>file:/C:/xampp/htdocs/andeanmusic/views/band.php</file>
+            <file>file:/C:/xampp/htdocs/andeanmusic/css/menu.css</file>
         </group>
     </open-files>
 </project-private>
